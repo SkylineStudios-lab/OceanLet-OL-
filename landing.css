@@ -1,0 +1,9 @@
+* {
+   font-family: "Titan One", sans-serif;
+   background: linear-gradient(to right, rgb(0, 200, 255), rgb(0, 149, 255));
+}
+
+.heading {
+  margin-top: 20px;
+  margin-left: 20px;
+}
